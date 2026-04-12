@@ -1,0 +1,1 @@
+../../skills/bibliometric/SKILL.md

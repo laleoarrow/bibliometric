@@ -1,0 +1,20 @@
+{
+  "name": "bibliometric-skills",
+  "description": "Web of Science bibliometric skill for ranked entity metrics, citation-report extraction, and audited batch plain-text export.",
+  "owner": {
+    "name": "laleoarrow",
+    "url": "https://github.com/laleoarrow"
+  },
+  "plugins": [
+    {
+      "name": "bibliometric",
+      "description": "Web of Science bibliometric skill for ranked Countries/Regions, Affiliations, Authors, and batch plain-text export.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "laleoarrow",
+        "url": "https://github.com/laleoarrow"
+      }
+    }
+  ]
+}
