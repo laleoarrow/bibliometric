@@ -1,0 +1,11 @@
+{
+  "name": "bibliometric",
+  "version": "1.0.0",
+  "description": "Web of Science bibliometric workflows for ranked entity metrics, citation-report extraction, and audited batch plain-text export.",
+  "author": "laleoarrow",
+  "keywords": ["bibliometric", "web-of-science", "citation-report", "countries-regions", "affiliations", "authors", "wos-export", "ai-agent"],
+  "license": "MIT",
+  "skills": [
+    "skills/bibliometric"
+  ]
+}
